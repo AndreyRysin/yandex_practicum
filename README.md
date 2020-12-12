@@ -32,41 +32,41 @@ There is the data on three regions got with satellite. In each region, there are
 * fine data preprocessing and EDA
 * machine learning
 
-Необходимо разработать модель, предсказывающую коэффициент восстановления золота из золотосодержащей руды. Имеются данные с параметрами добычи и очистки.
+It's necessary to develop a model which predicts the coefficient of the gold recovering from the auriferous ore. There is the data on the extraction and clearing parameters.
 
 ### <a href='https://github.com/AndreyRysin/yandex_practicum/tree/main/05_Car_price_scoring'>05_Car_price_scoring</a>
 * fine data preprocessing and EDA
 * machine learning
 
-Магазин по продаже автомобилей с пробегом разрабатывает приложение, в котором можно быстро узнать рыночную стоимость своего автомобиля. Необходимо построить модель для определения стоимости.
+A used cars store develops the app which lets to learn market value of the car quickly. It's necessary to develop the model for computing the value.
 
 ### <a href='https://github.com/AndreyRysin/yandex_practicum/tree/main/06_Time_series_analysis'>06_Time_series_analysis</a>
 * time series analysis
 * machine learning
 
-Компания - оператор такси желает привлекать дополнительных водителей в период пиковой нагрузки в аэропортах. Для этого необходимо спрогнозировать количество заказов такси на следующий час.
+A taxi operator would like to attract extra drivers at peak-level load periods in airports. It's necessary to predict the amount of taxi orders for the next hour.
 
 ### <a href='https://github.com/AndreyRysin/yandex_practicum/tree/main/07_Text_processing'>07_Text_processing</a>
 * deep learning (text processing)
 * TF-IDF
 * BERT
 
-Интернет-магазин запускает новый сервис: теперь пользователи могут сами редактировать и дополнять описания товаров. Необходимо разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. 
+The online store is launching a new service: now users able to edit and add the product descriptions on their own. It's necessary to develop a tool which will search for toxic comments and send them for moderation.
 
 ### <a href='https://github.com/AndreyRysin/yandex_practicum/tree/main/08_Airlines'>08_Airlines</a>
 * statistical analysis
 
-Авиакомпания изучает предпочтения пользователей, покупающих билеты на разные направления. Необходимо проанализировать спрос на рейсы в города, где проходят крупнейшие культурные фестивали.
+The airline company is learning customers' buying tickets for different routes preferences. It's necessary to analyse the demand for the flights to cities where the largest cultural festivals are going.
 
 ### <a href='https://github.com/AndreyRysin/yandex_practicum/tree/main/09_Computer_vision'>09_Computer_vision</a>
 * deep learning (computer vision)
 * ResNet50
 
-Сетевой супермаркет внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов.
+The chain store is introducing a computer vision system for customers' photos processing. Photographing at the cash zone will assist to determine customers' age.
 
 ### <a href='https://github.com/AndreyRysin/yandex_practicum/tree/main/10_Telecom_churning'>10_Telecom_churning</a>
 * machine learning
 * custom ensembles of models
 * neural networks
 
-Оператор связи хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия.
+A telecom operator would like to predict customers' churning. If it is revealed, a customer is going to churn, he will be offered with promo codes and special conditions.

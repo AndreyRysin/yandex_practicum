@@ -8,7 +8,7 @@ ESRB (Entertainment Software Rating Board) is an association which determines th
 
 ### Notice
 
-It's meant the research was performed at the end of 2016 - the beginning of 2017. That's why such phrases as "today", "now", "at the present" etc. should be meant as a mention on the time the research was performed not the real present time.
+It's meant that the study was conducted in late 2016 - early 2017. Therefore, phrases such as "today", "now", "at the present" etc. should be meant as a reference to the time of the study, not present.
 
 # Essential
 

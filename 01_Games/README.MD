@@ -20,12 +20,12 @@
 
 # Description
 
-Интернет-магазин продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, об оценках пользователей и экспертов, о жанрах и платформах. Необходимо выявить закономерности, определяющие успешность игры.
+The online store sells computer games all over the world. The historical data about sells, users' and experts' scores, genres and platforms available from open sources. It's necessary to reveal the crucial factors of success of the game.
 
-Данные представлены до 2016 года включительно (за 2016 год - могут быть неполными). Рекламная кампания планируется на 2017-й год.
+The data provided is up to 2016 inclusively (the data on 2016 could be incomplete). The advertisement campaign is planning on the 2017th.
 
-ESRB (Entertainment Software Rating Board) — это ассоциация, определяющая возрастной рейтинг компьютерных игр.
+ESRB (Entertainment Software Rating Board) is an association which determines the computer game age rating.
 
-### Примечание
+### Notice
 
-Подразумевается, что данное исследование проводилось в конце 2016 - начале 2017 года. Поэтому такие формулировки, как "сегодня", "сейчас", "в настоящее время" и т.п. следует понимать как указание на время проведения исследования, а не на реальное настоящее время.
+It's meant the research was performed at the end of 2016 - the beginning of 2017. That's why such phrases as "today", "now", "at the present" etc. should be meant as a mention on the time the research was performed not the real present time.

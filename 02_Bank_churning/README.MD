@@ -1,6 +1,6 @@
 # Description
 
-Clients have got started to churn from the bank. It's necessary to predict if the client going to churn soon or not.
+Customers have got started to churn from the bank. It's necessary to predict if the client going to churn soon or not.
 
 The *Exited* column shows the fact of a churn.
 

@@ -1,3 +1,7 @@
+# Description
+
+There is the data on three regions got with satellite. In each region, there are 100 000 fields, where the quality and the volume of the oil reserves were measured. It's necessary to develop an ML-model which will determine the region where the extraction is the most profitable.
+
 # Essential
 
 * bootstrap
@@ -19,7 +23,3 @@
 * ML models building
 * risk-benefit & break-even analysis
 * final report
-
-# Description
-
-Имеются данные по трём регионам, полученные с помощью спутника. В каждом регионе 100 000 месторождений, где измерили качество нефти и объём её запасов. Необходимо разработать модель машинного обучения, которая поможет определить регион, где добыча наиболее прибыльна.

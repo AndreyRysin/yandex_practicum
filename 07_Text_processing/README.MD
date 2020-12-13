@@ -1,3 +1,11 @@
+# Description
+
+The online store is launching a new service: now users able to edit and add the product descriptions on their own. It's necessary to develop a tool which will search for toxic comments and send them for moderation.
+
+### Metrics
+
+*F1* > 0,75.
+
 # Essential
 
 * deep learning (text processing)
@@ -23,11 +31,3 @@
 * ML models building
 * final report
 * appendix with raw results
-
-# Description
-
-Интернет-магазин запускает новый сервис: теперь пользователи могут сами редактировать и дополнять описания товаров. Необходимо разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. 
-
-### Метрики
-
-*F1* > 0,75.

@@ -1,3 +1,11 @@
+# Description
+
+It's necessary to develop a model which predicts the coefficient of the gold recovering from the auriferous ore. There is the data on the extraction and clearing parameters.
+
+### features names structure:
+
+* \[stage\].\[parameter type\].\[parameter name\]
+
 # Essential
 
 * fine data preprocessing and EDA
@@ -18,10 +26,3 @@
 * feature engineering
 * ML models building
 * final report
-
-# Description
-
-Необходимо разработать модель, предсказывающую коэффициент восстановления золота из золотосодержащей руды. Имеются данные с параметрами добычи и очистки.
-
-### Наименование признаков:
-* \[этап\].\[тип параметра\].\[название параметра\]

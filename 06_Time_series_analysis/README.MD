@@ -1,3 +1,11 @@
+# Description
+
+A taxi operator would like to attract extra drivers at peak-level load periods in airports. It's necessary to predict the amount of taxi orders for the next hour.
+
+### Metrics
+
+*RMSE* < 48.
+
 # Essential
 
 * time series analysis
@@ -20,11 +28,3 @@
 * feature engineering
 * ML models building
 * final report
-
-# Description
-
-Компания - оператор такси желает привлекать дополнительных водителей в период пиковой нагрузки в аэропортах. Для этого необходимо спрогнозировать количество заказов такси на следующий час.
-
-### Метрики
-
-*RMSE* < 48.

@@ -1,3 +1,15 @@
+# Description
+
+A telecom operator would like to predict customers' churning. If it is revealed, a customer is going to churn, he will be offered with promo codes and special conditions. There is some customers' personal data and the information about their tariffs and contracts (relevant on the 1st of february, 2020).
+
+Operator provides two basic types of services: fixed voice communication; the Internet. Also, extra services are available.
+
+### Metrics
+
+* Target metric - *ROC-AUC* (at least 0,88).
+* Extra metric - *Accuracy* (no standard).
+* High value of the Recall is more preferable than high value of the Precision.
+
 # Essential
 
 * machine learning
@@ -22,15 +34,3 @@
 * ML models building
 * neural networks building
 * final report
-
-# Description
-
-Оператор связи хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Имеются персональные данные некоторых клиентов, а также информация об их тарифах и договорах (актуальна на 1 февраля 2020).
-
-Оператор предоставляет два основных типа услуг: стационарную телефонную связь; интернет. Также доступны дополнительные услуги.
-
-### Метрики
-
-* Целевая метрика - *ROC-AUC* (не менее 0,88).
-* Дополнительная метрика - *Accuracy* (не нормируется).
-* Высокое значение полноты (*Recall*) более предпочтительно, чем высокая точность (*Precision*).

@@ -1,3 +1,14 @@
+# Description
+
+Clients have got started to churn from the bank. It's necessary to predict if the client going to churn soon or not.
+
+The *Exited* column shows the fact of a churn.
+
+### Metrics
+
+* *F1*-score > 0,59;
+* *ROC-AUC*.
+
 # Essential
 
 * machine learning
@@ -18,14 +29,3 @@
 * feature engineering
 * ML models building
 * final report
-
-# Description
-
-Из банка стали уходить клиенты. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.
-
-Столбец *Exited* отражает факт ухода клиента.
-
-### Метрики
-
-* *F1*-score > 0,59;
-* *ROC-AUC*.

@@ -1,3 +1,12 @@
+# Description
+
+A used cars store develops the app which lets to learn market value of the car quickly. It's necessary to develop the model for computing the value.
+
+Important features:
+* quality of the prediction;
+* rapidity of the prediction;
+* the time required for learning.
+
 # Essential
 
 * fine data preprocessing and EDA
@@ -20,12 +29,3 @@
 * ML models building
 * models comparison
 * final report
-
-# Description
-
-Магазин по продаже автомобилей с пробегом разрабатывает приложение, в котором можно быстро узнать рыночную стоимость своего автомобиля. Необходимо построить модель для определения стоимости. 
-
-Заказчику важны:
-* качество предсказания;
-* скорость предсказания;
-* время обучения.

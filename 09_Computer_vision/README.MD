@@ -1,3 +1,13 @@
+# Description
+
+The chain store is introducing a computer vision system for customers' photos processing. Photographing at the cash zone will assist to determine customers' age:
+* to analyse the purchases and to offer goods for customers of a particular age group;
+* to control cashiers' conscientiousness in alcohol sells.
+
+### Metrics
+
+*MAE* < 8.0
+
 # Essential
 
 * deep learning (computer vision)
@@ -17,12 +27,3 @@
 * feature engineering
 * neural networks building
 * final report
-
-# Description
-
-Сетевой супермаркет внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
-* анализировать покупки и предлагать товары для покупателей этой возрастной группы;
-* контролировать добросовестность кассиров при продаже алкоголя.
-
-### Метрики
-*MAE* < 8.0

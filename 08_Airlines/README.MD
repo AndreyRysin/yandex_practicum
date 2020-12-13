@@ -1,3 +1,9 @@
+# Description
+
+The airline company is learning customers' buying tickets for different routes preferences. It's necessary to analyse the demand for the flights to cities where the largest cultural festivals are going.
+
+It's necessary to test the hypothesis: "An average demand for the tickets during festivals doesn't differ from average demand for the tickets at normal times".
+
 # Essential
 
 * statistical analysis
@@ -15,9 +21,3 @@
 * exploratory data analysis (EDA)
 * statistical analysis
 * final report
-
-# Description
-
-Авиакомпания изучает предпочтения пользователей, покупающих билеты на разные направления. Необходимо проанализировать спрос на рейсы в города, где проходят крупнейшие культурные фестивали.
-
-Необходимо проверить гипотезу: «Средний спрос на билеты во время фестивалей не отличается от среднего спроса на билеты в обычное время».
